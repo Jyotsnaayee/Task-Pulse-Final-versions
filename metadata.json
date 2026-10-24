@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse",
+  "description": "Daily task manager featuring 3 priority sections, animated rainbow progress bar, and time-based reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
